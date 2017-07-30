@@ -84,9 +84,9 @@
                     <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/about-img.jpg" class="withripple delay-03s animated wow zoomIn" alt=""></div>
                     <div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
                         <div class=" delay-01s animated fadeInDown wow animated">
-                            <h3>Lorem Ipsum has been the industry's standard dummy text ever..</h3><br/>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.PageMaker including versions of Lorem Ipsum.</p> <br/>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                            <h3>Demi Corporation Limited</h3><br/>
+                            <p>At Demi Corp , we develop innovative and creative products and services that provide total communication and information solutions. </p> <br/>
+                            <p>We are competent in web application development, mobile application development, desktop application development, business intelligence/data analysis and we pride ourselves on providing a full range of technology to meet all of your needs.</p>
                         </div>
                         <div class="work_bottom"> <span>Want to know more..</span> <a href="#contact" class="btn btn-raised btn-lg">Contact Us</a> </div>
                     </div>
@@ -110,22 +110,23 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="service_block withripple">
                         <div class="service_icon delay-03s animated wow  zoomIn"> <span><i class="material-icons">card_membership</i></span> </div>
-                        <h3 class="animated fadeInUp wow">Android</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">Custom Software Development</h3>
+                        <p class="animated fadeInDown wow">We have experts ready to analyze your idea in detail and make the product come true. We draft a software requirements specification, advise clients on the development approach and start the project while sticking to time and budget limits.
+                            And when you are happy with the result, we always support the project by customizing and maintaining</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft">
                     <div class="service_block withripple">
                         <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i class="material-icons">favorite_border</i></span> </div>
-                        <h3 class="animated fadeInUp wow">Apple IOS</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">Mobile App Development</h3>
+                        <p class="animated fadeInDown wow">We develop Android apps, mobile back-ends, provide integration and maintenance. We offer native development on Android by developers with experience measured by dozens of projects.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft">
                     <div class="service_block withripple">
                         <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="material-icons">hourglass_empty</i></span> </div>
-                        <h3 class="animated fadeInUp wow">Design</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">Desktop Application Development</h3>
+                        <p class="animated fadeInDown wow">We offer desktop app development services transforming your solid software idea into a market sensation</p>
                     </div>
                 </div>
             </div>
@@ -133,15 +134,16 @@
                 <div class="col-lg-4 col-md-4 col-sm-4 mrgTop">
                     <div class="service_block withripple">
                         <div class="service_icon delay-03s animated wow  zoomIn"> <span><i class="material-icons">launch</i></span> </div>
-                        <h3 class="animated fadeInUp wow">Concept</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">Data Analysis</h3>
+                        <p class="animated fadeInDown wow">We offer Business Intelligence (BI) and data analysis services converting raw pieces of information into meaningful and consistent insights.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft mrgTop">
                     <div class="service_block withripple">
                         <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i class="material-icons">lightbulb_outline</i></span> </div>
-                        <h3 class="animated fadeInUp wow">User Research</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">Web Hosting</h3>
+                        <p class="animated fadeInDown wow">We have wide range of solutions for your all hosting needs. We provide Solid,Reliable and Friendly hosting service.
+                            All packages are optimized for Websites and Systems supporting different types of framework and web technologies, the package usually  come with email address, CPanel, Domain management, Professional support </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft mrgTop">
