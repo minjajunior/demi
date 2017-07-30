@@ -85,7 +85,7 @@
                     <div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
                         <div class=" delay-01s animated fadeInDown wow animated">
                             <h3>Demi Corporation Limited</h3><br/>
-                            <p>At Demi Corp , we develop innovative and creative products and services that provide total communication and information solutions. </p> <br/>
+                            <p>At Demi Corp , We unleash our creativity and seek innovation to develop products and services that provide total communication and information solutions. </p> <br/>
                             <p>We are competent in web application development, mobile application development, desktop application development, business intelligence/data analysis and we pride ourselves on providing a full range of technology to meet all of your needs.</p>
                         </div>
                         <div class="work_bottom"> <span>Want to know more..</span> <a href="#contact" class="btn btn-raised btn-lg">Contact Us</a> </div>
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft">
                     <div class="service_block withripple">
                         <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i class="material-icons">favorite_border</i></span> </div>
-                        <h3 class="animated fadeInUp wow">Mobile App Development</h3>
+                        <h3 class="animated fadeInUp wow">Mobile Application Development</h3>
                         <p class="animated fadeInDown wow">We develop Android apps, mobile back-ends, provide integration and maintenance. We offer native development on Android by developers with experience measured by dozens of projects.</p>
                     </div>
                 </div>
@@ -149,8 +149,9 @@
                 <div class="col-lg-4 col-md-4 col-sm-4 borderLeft mrgTop">
                     <div class="service_block withripple">
                         <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="material-icons">info_outline</i></span> </div>
-                        <h3 class="animated fadeInUp wow">User Experience</h3>
-                        <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <h3 class="animated fadeInUp wow">IT Consulting </h3>
+                        <p class="animated fadeInDown wow">We have knwoledge and expertise advising on how n how best to use information technology
+                            (IT) in achieving your business objectives. We often estimate, manage, implement, deploy, and administer IT systems on behalf of our client </p>
                     </div>
                 </div>
             </div>
@@ -247,7 +248,7 @@
         </section>
     </div>
     <div class="container">
-        <div class="footer_bottom"><span>Copyright © <?php echo date('Y')?>,    Powered by <a href="<?php echo base_url()?>"> Demi Corporation</a>. </span> </div>
+        <div class="footer_bottom"><span>Copyright © <?php echo date('Y')?>,    All rights reserved. <a href="<?php echo base_url()?>"> Demi Corporation</a>. </span> </div>
     </div>
 </footer>
 
