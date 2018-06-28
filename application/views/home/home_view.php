@@ -3,8 +3,8 @@
     <section class="intro_section page_mainslider">
         <div class="flexslider">
             <ul class="slides">
-                <li class="ls">
-                    <img src="<?php echo base_url('assets/images/slide01.jpg')?>" alt="">
+                <!--li class="ls">
+                    <img src="<?php echo base_url('assets/images/slide02.jpg')?>" alt="">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12 text-center">
@@ -34,18 +34,18 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <!-- eof .slide_description -->
+                                    <!-- eof .slide_description ->
                                 </div>
-                                <!-- eof .slide_description_wrapper -->
+                                <!-- eof .slide_description_wrapper ->
                             </div>
-                            <!-- eof .col-* -->
+                            <!-- eof .col-* ->
                         </div>
-                        <!-- eof .row -->
+                        <!-- eof .row ->
                     </div>
-                    <!-- eof .container -->
-                </li>
+                    <!-- eof .container ->
+                </li-->
                 <li class="cs main_color2">
-                    <img src="<?php echo base_url('assets/images/slide02.jpg')?>" alt="">
+                    <img src="<?php echo base_url('assets/images/slide01.jpg')?>" alt="">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -59,20 +59,15 @@
                                         <div class="intro-layer" data-animation="fadeInRight">
                                             <h3 class="text-uppercase">
                                                 <strong>
-                                                    <span class="highlight">Easy</span>
-                                                    <span class="grey">corp</span>
+                                                    <span class="highlight"></span>
+                                                    <span class="grey">DEMI corporation</span>
                                                 </strong>
                                             </h3>
                                         </div>
                                         <div class="intro-layer" data-animation="fadeInLeft">
                                             <p>
-                                                With over 25 Years of experience helping business to find
-                                                <br> comprehensive solutions
-                                            </p>
-                                        </div>
-                                        <div class="intro-layer" data-animation="fadeInLeft">
-                                            <p>
-                                                <img src="images/signature_white.png" alt="">
+                                                With experienced team members,<br>
+                                                we helping business to find comprehensive solutions
                                             </p>
                                         </div>
                                     </div>
@@ -86,7 +81,7 @@
                     </div>
                     <!-- eof .container -->
                 </li>
-                <li class="ls">
+                <!--li class="ls">
                     <img src="<?php echo base_url('assets/images/slide03.jpg')?>" alt="">
                     <div class="container">
                         <div class="row">
@@ -117,15 +112,15 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <!-- eof .slide_description -->
+                                    <!-- eof .slide_description ->
                                 </div>
-                                <!-- eof .slide_description_wrapper -->
+                                <!-- eof .slide_description_wrapper ->
                             </div>
-                            <!-- eof .col-* -->
+                            <!-- eof .col-* ->
                         </div>
-                        <!-- eof .row -->
+                        <!-- eof .row ->
                     </div>
-                    <!-- eof .container -->
+                    <!-- eof .container
                 </li>
 
             </ul>
@@ -133,7 +128,7 @@
         <!-- eof flexslider -->
     </section>
 
-    <section class="intro_section ds section_padding_top_130 section_padding_bottom_30">
+    <!--section class="intro_section ds section_padding_top_130 section_padding_bottom_30">
         <div class="container">
             <div class="row">
 
@@ -163,7 +158,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- eof .slide_description -->
+                                <!-- eof .slide_description ->
 
                             </li>
 
@@ -187,7 +182,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- eof .slide_description -->
+                                <!-- eof .slide_description ->
 
                             </li>
 
@@ -209,29 +204,29 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- eof .slide_description -->
+                                <!-- eof .slide_description ->
 
                             </li>
 
                         </ul>
                     </div>
-                    <!-- eof flexslider -->
+                    <!-- eof flexslider ->
                 </div>
 
             </div>
-            <!--.row-->
+            <!--.row->
         </div>
-        <!--.container-->
+        <!--.container->
 
-    </section>
+    </section-->
 
     <section class="ls parallax abstract_background section_padding_top_130 section_padding_bottom_130">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center to_animate" data-animation="fadeInDown">
                     <h3 class="section_header">
-                        Jumpstart
-                        <br> Your Business
+                        Start Your
+                        <br> Business With
                     </h3>
                 </div>
                 <div class="col-sm-4 to_animate" data-animation="fadeInDown">
@@ -240,11 +235,11 @@
                             <i class="fa fa-comments-o"></i>
                         </div>
                         <h3 class="text-uppercase">
-                            <a href="services.html">
+                            <a href="#">
                                 Great Support
                             </a>
                         </h3>
-                        <p>At vero eos et accusam justo duo dolores ea rebum stet</p>
+                        <!--p>At vero eos et accusam justo duo dolores ea rebum stet</p-->
 
                     </div>
                 </div>
@@ -254,11 +249,11 @@
                             <i class="fa fa-star-o"></i>
                         </div>
                         <h3 class="text-uppercase">
-                            <a href="services.html">
+                            <a href="#">
                                 Huge Experience
                             </a>
                         </h3>
-                        <p>Clita kasd guberren no sea takimata sanctus est lorem</p>
+                        <!--p>Clita kasd guberren no sea takimata sanctus est lorem</p-->
 
                     </div>
                 </div>
@@ -268,24 +263,24 @@
                             <i class="fa fa-thumbs-o-up"></i>
                         </div>
                         <h3 class="text-uppercase">
-                            <a href="services.html">
+                            <a href="#">
                                 100% Satisfaction
                             </a>
                         </h3>
-                        <p>Ipsum dolor sit amet. Lorem ipsum dolor sit consetetur sadipscing</p>
+                        <!--p>Ipsum dolor sit amet. Lorem ipsum dolor sit consetetur sadipscing</p-->
 
                     </div>
                 </div>
 
                 <div class="col-sm-12 text-center topmargin_50 to_animate" data-animation="fadeInDown">
-                    <a href="services.html" class="theme_button inverse">Read more</a>
+                    <a href="<?php echo site_url('about')?>" class="theme_button inverse">Read more</a>
                 </div>
 
             </div>
         </div>
     </section>
 
-    <section class="ls section_padding_top_65 section_padding_bottom_100">
+    <!--section-- class="ls section_padding_top_65 section_padding_bottom_100">
         <div class="container">
 
             <div class="row">
@@ -367,13 +362,11 @@
                         </li>
                     </ul>
                 </div>
-
-
             </div>
         </div>
-    </section>
+    </section-->
 
-    <section class="cs section_padding_0 columns_padding_0">
+    <!--section class="cs section_padding_0 columns_padding_0">
         <div class="container-fluid">
             <div class="row">
 
@@ -392,10 +385,10 @@
                                     </div>
                                     <div class="media-body">
                                         <h4 class="text-uppercase">
-                                            <a href="services.html">Fair Prices</a>
+                                            <a href="#">Fair Prices</a>
                                         </h4>
 
-                                        <p>At vero eos et accusam justo duo dolores</p>
+                                        <!--p>At vero eos et accusam justo duo dolores</p->
                                     </div>
                                 </div>
                                 <div class="media small-teaser">
@@ -404,9 +397,9 @@
                                     </div>
                                     <div class="media-body">
                                         <h4 class="text-uppercase">
-                                            <a href="services.html">Best quality</a>
+                                            <a href="#">Best quality</a>
                                         </h4>
-                                        <p>Clita kasd guberren no sea takimata sanctus est</p>
+                                        <!--p>Clita kasd guberren no sea takimata sanctus est</p->
                                     </div>
                                 </div>
                                 <div class="media small-teaser">
@@ -415,85 +408,74 @@
                                     </div>
                                     <div class="media-body">
                                         <h4 class="text-uppercase">
-                                            <a href="services.html">Know How</a>
+                                            <a href="#">Know How</a>
                                         </h4>
-                                        <p>Lorem ipsum dolor sit amet, consetetur</p>
+                                        <!--p>Lorem ipsum dolor sit amet, consetetur</p->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- .container-left-half -->
+                    <!-- .container-left-half ->
 
                 </div>
-                <!-- .col-* -->
+                <!-- .col-* ->
                 <div class="col-sm-6 to_animate" data-animation="fadeInRight">
                     <img src="images/person.jpg" alt="">
                 </div>
-                <!-- .col-* -->
+                <!-- .col-* ->
 
             </div>
         </div>
-    </section>
+    </section-->
 
     <section class="page_partners_carousel ls section_padding_top_50 section_padding_bottom_50">
         <div class="container">
             <div class="row">
+                <div class="col-md-12 text-center">
+                    <h4 class="small-text ">Our Clients</h4>
+                </div>
                 <div class="col-sm-12">
                     <div class="owl-carousel partners-carousel" data-items="5" data-loop="true" data-autoplay="true" data-center="true" data-responsive-xs="2" data-responsive-sm="3" data-responsive-md="4" data-responsive-lg="5">
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner01.png" alt="">
+                                <img src="<?php echo base_url('assets/images/clients/pascal.jpg')?>" alt="">
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner02.png" alt="">
+                                <img src="<?php echo base_url('assets/images/clients/freepoint.jpg')?>" alt="">
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner03.png" alt="">
+                                <img src="<?php echo base_url('assets/images/clients/sharingworlds.jpg')?>" alt="">
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner04.png" alt="">
+                                <img src="<?php echo base_url('assets/images/clients/mdattorney.jpg')?>" alt="">
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner05.png" alt="">
+                                <b>Kibaigwa Water Supply and Sanitation Authority</b>
+                            </a>
+                        </div>
+
+                        <div class="text-center">
+                            <a href="#">
+                                <b>Maseto Debt Collectors</b>
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner06.png" alt="">
+                                <b>Giraffe Insurance</b>
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <img src="images/partners/partner01.png" alt="">
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="#">
-                                <img src="images/partners/partner07.png" alt="">
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="#">
-                                <img src="images/partners/partner08.png" alt="">
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="#">
-                                <img src="images/partners/partner09.png" alt="">
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="#">
-                                <img src="images/partners/partner10.png" alt="">
+                                <b>Safari Insurance</b>
                             </a>
                         </div>
                     </div>

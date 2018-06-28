@@ -26,13 +26,62 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="images/gallery/01.jpg" alt="">
+                            <img src="<?php echo site_url('assets/images/01.jpg')?>" alt="">
                         </div>
                         <div class="item-content">
-                            <h4>Accumulation</h4>
-
+                            <h4>Custom Software Development</h4>
                             <p>
-                                At vero eos et accusam et justo duo dolores rebum stet clita kasd gubergren
+                                We have experts ready to analyze your idea in detail and make the product come true. We draft a software requirements specification, advise clients on the development approach and start the project while sticking to time and budget limits.
+                                And when you are happy with the result, we always support the project by customizing and maintaining
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- .col-* -->
+                <div class="col-md-4 col-sm-6">
+
+                    <div class="vertical-item text-center">
+                        <div class="item-media">
+                            <img src="<?php echo site_url('assets/images/02.jpg')?>" alt="">
+                        </div>
+                        <div class="item-content">
+                            <h4>Mobile Application Development</h4>
+                            <p>
+                                We develop Android apps, mobile back-ends, provide integration and maintenance. We offer native development on Android
+                                by developers with experience measured by dozens of projects.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- .col-* -->
+                <div class="col-md-4 col-sm-6">
+
+                    <div class="vertical-item text-center">
+                        <div class="item-media">
+                            <img src="<?php echo site_url('assets/images/03.jpg')?>" alt="">
+                        </div>
+                        <div class="item-content">
+                            <h4>Desktop Application Development</h4>
+                            <p>
+                                We offer desktop app development services transforming your solid software idea into a market sensation
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- .col-* -->
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+
+                    <div class="vertical-item text-center">
+                        <div class="item-media">
+                            <img src="<?php echo site_url('assets/images/04.jpg')?>" alt="">
+                        </div>
+                        <div class="item-content">
+                            <h4>Data Analysis</h4>
+                            <p>
+                                We offer Business Intelligence (BI) and data analysis services converting raw pieces of information into meaningful and consistent insights.
                             </p>
 
                         </div>
@@ -43,15 +92,14 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="images/gallery/02.jpg" alt="">
+                            <img src="<?php echo site_url('assets/images/05.jpg')?>" alt="">
                         </div>
                         <div class="item-content">
-                            <h4>Taxation</h4>
-
+                            <h4><a href="<?php echo base_url('service/hosting')?>" > Web Hosting</a></h4>
                             <p>
-                                No sea takimata sanctus est lorem ipsum dolor sit amet
+                                We have wide range of solutions for your all hosting needs. We provide Solid,Reliable and Friendly hosting service.
+                                All packages are optimized for Websites and Systems supporting different types of framework and web technologies, the package usually  come with email address, CPanel, Domain management, Professional support
                             </p>
-
                         </div>
                     </div>
                 </div>
@@ -60,117 +108,14 @@
 
                     <div class="vertical-item text-center">
                         <div class="item-media">
-                            <img src="images/gallery/03.jpg" alt="">
+                            <img src="<?php echo site_url('assets/images/06.jpg')?>" alt="">
                         </div>
                         <div class="item-content">
-                            <h4>Risk Management</h4>
-
+                            <h4>IT Consulting</h4>
                             <p>
-                                Ipsum dolorsit amet consetetur sadipscing sed diam nonumy
+                                We have knowledge, experience and expertise in IT service management, Advising on how best to use information technology
+                                (IT) in achieving your business objectives. We often estimate, manage, implement, deploy, and administer IT systems on behalf of our client
                             </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/04.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Estate Planning</h4>
-
-                            <p>
-                                Eirmod tempor invidunt ut labore et dolore magna aliquyam
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/05.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Stock</h4>
-
-                            <p>
-                                At vero eos et accusam et justo duo dolores et ea rebum
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/06.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Business Planning</h4>
-
-                            <p>
-                                Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/07.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Trades</h4>
-
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/08.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Retirement Planning</h4>
-
-                            <p>
-                                Nonumy eirmod tempor invidunt ut labore et dolore
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- .col-* -->
-                <div class="col-md-4 col-sm-6">
-
-                    <div class="vertical-item text-center">
-                        <div class="item-media">
-                            <img src="images/gallery/09.jpg" alt="">
-                        </div>
-                        <div class="item-content">
-                            <h4>Investment</h4>
-
-                            <p>
-                                Magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-                            </p>
-
                         </div>
                     </div>
                 </div>
@@ -180,7 +125,7 @@
     </section>
 
 
-    <section class="ls ms parallax abstract_background section_padding_top_130 section_padding_bottom_130">
+    <!--section class="ls ms parallax abstract_background section_padding_top_130 section_padding_bottom_130">
         <div class="container">
 
             <div class="row">
@@ -278,6 +223,6 @@
 
             </div>
         </div>
-    </section>
+    </section-->
 
 <?php $this->load->view('shared/footer')?>

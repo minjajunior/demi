@@ -36,18 +36,18 @@
                                     <div class="media-body">
                                         <h3 class="thin">Few Words About</h3>
                                         <h2>
-                                            <span class="highlight">Easy</span>Corp
+                                            <span class="highlight">Demi</span>Corp
                                         </h2>
                                     </div>
                                 </div>
 
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, maiores porro. Asperiores soluta natus iste quas nisi magnam temporibus perspiciatis fugit.</p>
-
-                                <p>Consequatur voluptate nobis pariatur cumque incidunt excepturi alias quisquam earum reprehenderit voluptatem ducimus, eius, aspernatur quae nisi quo. Inventore id perspiciatis totam. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Consequatur voluptate nobis.</p>
+                                <p>At Demi Corp , We unleash our creativity and seek innovation to develop products and services that provide total communication and information solutions. </p> <br/>
+                                <p>We are competent in web application development, mobile application development, desktop application development, business intelligence/data analysis and we
+                                    pride ourselves on providing a full range of technology to meet all of your needs.</p>
 
                                 <p class="topmargin_60">
-                                    <a href="#" class="theme_button inverse">Read More</a>
+                                    For more details<br>
+                                    <a href="<?php echo site_url('contact')?>" class="theme_button inverse">Contact Us</a>
                                 </p>
 
 
@@ -59,7 +59,7 @@
                 </div>
                 <!-- .col-* -->
                 <div class="col-sm-6">
-                    <img src="images/person_big.jpg" alt="">
+                    <img src="<?php echo site_url('assets/images/logo.jpg')?>" alt="">
                 </div>
                 <!-- .col-* -->
 

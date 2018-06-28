@@ -66,19 +66,19 @@
 
                                     <ul class="menu">
                                         <li class="">
-                                            <a href="#">Service 1</a>
+                                            <a href="#">Software Development</a>
                                         </li>
                                         <li class="">
-                                            <a href="#">Service 2</a>
+                                            <a href="#">Mobile App Development</a>
                                         </li>
                                         <li class="">
-                                            <a href="#">Service 3</a>
+                                            <a href="#">Desktop App Development</a>
                                         </li>
                                         <li class="">
-                                            <a href="#">Service 4</a>
+                                            <a href="#">Data Analysis</a>
                                         </li>
                                         <li class="">
-                                            <a href="#">Service 5</a>
+                                            <a href="<?php echo base_url('service/hosting')?>">Web Hosting</a>
                                         </li>
                                     </ul>
 

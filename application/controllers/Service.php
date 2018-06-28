@@ -12,4 +12,8 @@ class Service extends CI_Controller {
     public function index(){
         $this->load->view('service/service_view');
     }
+
+    public function hosting(){
+        $this->load->view('service/hosting_view');
+    }
 }

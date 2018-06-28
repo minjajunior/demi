@@ -3720,8 +3720,8 @@ body.boxed {
 }
 
 .grey {
-	color: #323232;
-	border-color: #323232;
+	color: #999999;
+	border-color: #999999;
 }
 
 .greylinks a {
@@ -5711,8 +5711,8 @@ section .cs .theme_button:hover {
 }
 
 .cs .grey {
-	border-color: #323232;
-	color: #323232;
+	border-color: #999999;
+	color: #999999;
 }
 
 .cs .response,

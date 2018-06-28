@@ -68,7 +68,7 @@
                             <!-- main nav start -->
                             <nav class="mainmenu_wrapper">
                                 <ul class="mainmenu nav sf-menu">
-                                    <li class="active">
+                                    <li>
                                         <a href="<?php echo base_url()?>">Home</a>
                                     </li>
                                     <li>
@@ -76,7 +76,7 @@
                                     </li>
                                     <li>
                                         <a href="<?php echo site_url('service')?>">Services</a>
-                                        <ul>
+                                        <!--ul>
                                             <li>
                                                 <a href="#">Service 1</a>
                                             </li>
@@ -92,13 +92,13 @@
                                             <li>
                                                 <a href="#">Service 5</a>
                                             </li>
-                                        </ul>
+                                        </ul-->
                                     </li>
                                     <li>
                                         <a href="#">Products</a>
                                         <ul>
                                             <li>
-                                                <a href="<?php echo site_url('product/events')?>">Demi Events</a>
+                                                <a href="http://demievents.co.tz" target="_blank">Demi Events</a>
                                             </li>
                                         </ul>
                                     </li>
