@@ -22,7 +22,7 @@ date_default_timezone_set('Africa/Dar_Es_Salaam');
         <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <![endif]-->
-        <meta name="description" content="Tanzania, Tz, android, POS, software, free, retail shop, desktop, events, website, demi, demi corporation, hosting, ssl, development, mobile, data">
+        <meta name="description" content="Tanzania, Tz, apple, mac, android, POS, software, free, retail shop, desktop, events, website, demi, demi corporation, hosting, ssl, development, mobile, data">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
