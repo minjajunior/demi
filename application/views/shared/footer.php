@@ -20,7 +20,7 @@
                                             <i class="rt-icon2-device-phone highlight"></i> +255 712 431 242
                                         </li>
                                         <li>
-                                            <i class="rt-icon2-device-phone highlight"></i> +255 752 934 547
+                                            <i class="rt-icon2-device-phone highlight"></i> +255 742 431 242
                                         </li>
 
                                         <li>
@@ -114,7 +114,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12 text-center">
-                                <p>&copy; Copyright <?php echo date('Y')?> All Rights Reserved</p>
+                                <p>&copy; Copyright 2017 - <?php echo date('Y')?> All Rights Reserved</p>
                             </div>
                         </div>
                     </div>

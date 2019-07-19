@@ -13,4 +13,8 @@ class Product extends CI_Controller {
     public function events(){
         $this->load->view('product/events_view');
     }
+
+    public function shop(){
+        $this->load->view('product/shop_view');
+    }
 }

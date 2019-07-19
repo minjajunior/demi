@@ -5,6 +5,7 @@
  * Date: 9/21/2017
  * Time: 7:45 PM
  */
+date_default_timezone_set('Africa/Dar_Es_Salaam');
 ?>
 
 <!DOCTYPE html>
@@ -21,7 +22,7 @@
         <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <![endif]-->
-        <meta name="description" content="">
+        <meta name="description" content="Tanzania, Tz, android, POS, software, free, retail shop, desktop, events, website, demi, demi corporation, hosting, ssl, development, mobile, data">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -76,29 +77,15 @@
                                     </li>
                                     <li>
                                         <a href="<?php echo site_url('service')?>">Services</a>
-                                        <!--ul>
-                                            <li>
-                                                <a href="#">Service 1</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Service 2</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Service 3</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Service 4</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Service 5</a>
-                                            </li>
-                                        </ul-->
                                     </li>
                                     <li>
                                         <a href="#">Products</a>
                                         <ul>
                                             <li>
                                                 <a href="http://demievents.co.tz" target="_blank">Demi Events</a>
+                                            </li>
+                                            <li>
+                                                <a href="<?php echo base_url('product/shop')?>">Demi Shop</a>
                                             </li>
                                         </ul>
                                     </li>

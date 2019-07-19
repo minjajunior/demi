@@ -106,7 +106,7 @@
                                     <div class="media-body">
                                         <h5 class="media-heading grey">Phone:</h5>
                                         +255 712 431 242<br>
-                                        +255 752 934 547
+                                        +255 742 431 242
                                     </div>
                                 </div>
                             </li>

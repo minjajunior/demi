@@ -459,18 +459,12 @@
                         </div>
                         <div class="text-center">
                             <a href="#">
+                                <img src="<?php echo base_url('assets/images/clients/winefestival.png')?>" alt="">
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="#">
                                 <b>Kibaigwa Water Supply and Sanitation Authority</b>
-                            </a>
-                        </div>
-
-                        <div class="text-center">
-                            <a href="#">
-                                <b>Maseto Debt Collectors</b>
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="#">
-                                <b>Giraffe Insurance</b>
                             </a>
                         </div>
                         <div class="text-center">
