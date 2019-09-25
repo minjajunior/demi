@@ -26,13 +26,17 @@
 
                     <h3 class="module-header">Contact Form</h3>
 
-                    <form class="contact-form columns_padding_5" method="post" action="http://webdesign-finder.com/">
+                    <?php
+                    $attributes = array('id' => 'contactform', 'class' => 'contact-form columns_padding_5');
+                    echo form_open('contact', $attributes);
+                    ?>
                         <div class="col-sm-6">
                             <div class="contact-form-name">
                                 <label for="name">Full Name
                                     <span class="required">*</span>
                                 </label>
                                 <input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control" placeholder="Full Name">
+                                <?php echo form_error('name'); ?>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -41,6 +45,7 @@
                                     <span class="required">*</span>
                                 </label>
                                 <input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Subject">
+                                <?php echo form_error('subject'); ?>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -49,6 +54,7 @@
                                     <span class="required">*</span>
                                 </label>
                                 <input type="text" aria-required="true" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Phone number">
+                                <?php echo form_error('phone'); ?>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -57,25 +63,24 @@
                                     <span class="required">*</span>
                                 </label>
                                 <input type="email" aria-required="true" size="30" value="" name="email" id="email" class="form-control" placeholder="Email">
+                                <?php echo form_error('email'); ?>
                             </div>
                         </div>
                         <div class="col-sm-12">
-
                             <div class="contact-form-message">
                                 <label for="message">Message</label>
                                 <textarea aria-required="true" rows="6" cols="45" name="message" id="message" class="form-control" placeholder="Message"></textarea>
                             </div>
+                            <?php echo form_error('message'); ?>
                         </div>
 
                         <div class="col-sm-12">
 
                             <div class="contact-form-submit topmargin_30">
                                 <button type="submit" id="contact_form_submit" name="contact_submit" class="theme_button wide_button color1">Send Message</button>
-                                <button type="reset" id="contact_form_reset" name="contact_reset" class="theme_button wide_button">Clear Form</button>
+                                <button type="reset" id="contact_form_reset" name="contact_reset" class="theme_button wide_button color2">Clear Form</button>
                             </div>
                         </div>
-
-
                     </form>
                 </div>
 
@@ -83,7 +88,6 @@
 
                     <div class="with_border with_padding_small">
                         <ul class="list1 no-bullets no-top-border no-bottom-border">
-
                             <li>
                                 <div class="media">
                                     <div class="media-left">
@@ -123,9 +127,7 @@
                             </li>
                         </ul>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </section>

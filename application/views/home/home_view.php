@@ -464,12 +464,12 @@
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <b>Kibaigwa Water Supply and Sanitation Authority</b>
+                                <img src="<?php echo base_url('assets/images/clients/safariinsurance.png')?>" alt="">
                             </a>
                         </div>
                         <div class="text-center">
                             <a href="#">
-                                <b>Safari Insurance</b>
+                                <img src="<?php echo base_url('assets/images/clients/safarianalytika.png')?>" alt="">
                             </a>
                         </div>
                     </div>
