@@ -92,6 +92,9 @@ date_default_timezone_set('Africa/Dar_Es_Salaam');
                                     <li>
                                         <a href="<?php echo site_url('contact')?>">Contact</a>
                                     </li>
+                                    <li>
+                                        <a href="<?php echo site_url('support')?>" target="_blank">Support</a>
+                                    </li>
                                 </ul>
                             </nav>
                             <!-- eof main nav -->
