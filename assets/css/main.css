@@ -1138,7 +1138,7 @@ a {
 }
 
 a:hover {
-	color: #ec682d;
+	color: #c40f11;
 	text-decoration: none;
 	-webkit-transition: all 0.15s linear 0s;
 	transition: all 0.15s linear 0s;
@@ -1403,8 +1403,8 @@ input[type="submit"] {
 
 .theme_buttons.color2 a,
 .theme_button.color2 {
-	background-color: #ec682d;
-	border-color: #ec682d;
+	background-color: #c40f11;
+	border-color: #c40f11;
 }
 
 .theme_buttons a:active,
@@ -3217,7 +3217,7 @@ header [class*="col-"],
 }
 
 .parallax.cs.main_color2:after {
-	background-color: #ec682d;
+	background-color: #c40f11;
 }
 
 .parallax.cs.main_color3:after {
@@ -3706,8 +3706,8 @@ body.boxed {
 }
 
 .highlight2 {
-	color: #ec682d;
-	border-color: #ec682d;
+	color: #c40f11;
+	border-color: #c40f11;
 }
 
 .red, .required {
@@ -3769,7 +3769,7 @@ body.boxed {
 
 .main_bg_color2 {
 	color: #ffffff;
-	background-color: #ec682d;
+	background-color: #c40f11;
 }
 
 .dark_bg_color {
@@ -4762,7 +4762,7 @@ body.boxed {
 }
 
 .ls .highlight2 {
-	color: #ec682d;
+	color: #c40f11;
 }
 
 .ls .greylinks a {
@@ -4778,7 +4778,7 @@ body.boxed {
 }
 
 .ls .darklinks a:hover {
-	color: #ec682d;
+	color: #c40f11;
 }
 
 .ls .pagination > li > a,
@@ -5050,8 +5050,8 @@ body.boxed {
 
 .ds .theme_buttons.color2 a,
 .ds .theme_button.color2 {
-	background-color: #ec682d;
-	border-color: #ec682d;
+	background-color: #c40f11;
+	border-color: #c40f11;
 	color: #ffffff;
 }
 
@@ -5127,7 +5127,7 @@ body.boxed {
 }
 
 .ds .highlight2 {
-	color: #ec682d;
+	color: #c40f11;
 }
 
 .ds .grey, .ds .black {
@@ -5553,7 +5553,7 @@ body.boxed {
 
 /**color section*/
 .cs.main_color2 {
-	background-color: #ec682d;
+	background-color: #c40f11;
 }
 
 .cs.main_color2 .highlight {
@@ -6516,7 +6516,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ds .menu-side-click li .activate_submenu {
-	color: #ec682d;
+	color: #c40f11;
 }
 
 .menu-side-click i {
@@ -7006,7 +7006,7 @@ section .intro_section .slide_description_wrapper {
 }
 
 .color-ribbon:after {
-	background-color: #ec682d;
+	background-color: #c40f11;
 }
 
 .color-ribbon div {
@@ -8967,7 +8967,7 @@ aside .widget_tag_cloud a:hover {
 }
 
 .widget_calendar tbody td a:hover {
-	color: #ec682d;
+	color: #c40f11;
 }
 
 .widget_calendar th {
@@ -10126,7 +10126,7 @@ li.product {
 .product [class*="col-"]:first-child .newproduct,
 .product [class*="col-"]:first-child .onsale {
 	position: absolute;
-	background-color: #ec682d;
+	background-color: #c40f11;
 	color: #ffffff;
 	padding: 8px 18px;
 	text-transform: uppercase;
@@ -10219,7 +10219,7 @@ li.product {
 }
 
 .product-buttons a.favorite_button {
-	background-color: #ec682d;
+	background-color: #c40f11;
 	color: #323232;
 }
 
