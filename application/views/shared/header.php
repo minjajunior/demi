@@ -87,6 +87,9 @@ date_default_timezone_set('Africa/Dar_Es_Salaam');
                                             <li>
                                                 <a href="<?php echo base_url('product/shop')?>">Demi Shop</a>
                                             </li>
+                                            <li>
+                                                <a href="http://insurance.demi.co.tz" target="_blank">Demi Insurance</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li>
